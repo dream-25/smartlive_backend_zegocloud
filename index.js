@@ -10,8 +10,8 @@ const postRoute = require("./routes/posts");
 const { generateToken04 } = require('./server/zegoServerAssistant');
 
 
-var APP_ID = "1374072730";
-var SERVER_SECRET = "39c0c44bb3b515b286484ee627796510";
+var APP_ID = "1556166315";
+var SERVER_SECRET = "207b0e92f0ca55fd9e2a93fceb32bfc6";
 
 
 function nocache(req, res, next) {
